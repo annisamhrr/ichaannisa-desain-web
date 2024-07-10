@@ -1,0 +1,20 @@
+.transformasi {
+    width: 300px;
+    height: 100px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+#div {
+    width: 300px;
+    height: 100px;
+    background-color: lightgray;
+    border: 1px solid black;
+    transform: rotateX(150deg);
+}
+#div2 {
+    width: 300px;
+    height: 100px;
+    background-color: gray;
+    border: 1px solid black;
+    transform: rotateY(150deg);
+}
