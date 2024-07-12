@@ -1,0 +1,62 @@
+.wrap{
+	background: rgb(142, 142, 142);
+	width: 900px;
+	margin: 10px auto;
+}
+ 
+/*bagian header*/
+.wrap .header{
+	background: rgb(192, 192, 192);
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: rgb(183, 212, 234);
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: rgb(183, 212, 234);
+	overflow: hidden;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	background: rgb(151, 164, 173);
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	background: rgb(130, 152, 167);
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
