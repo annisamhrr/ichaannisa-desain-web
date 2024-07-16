@@ -1,0 +1,17 @@
+$myfont: cambria;
+$mycolor: rgb(86, 20, 20);
+$bgcolor: rgb(208, 193, 193);
+$font-size: 25px;
+body {
+    background-color: $bgcolor;
+    header { 
+    h2 {
+        font-size: $font-size;
+        color: $mycolor;
+        font-family: $myfont;
+    }
+        }
+    p { 
+        color: $mycolor;  
+    }
+}
