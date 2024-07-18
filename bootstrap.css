@@ -1,0 +1,13 @@
+.step {
+    background-color: #f8d7da;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 10px 0;
+}
+.step-number {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.step-text {
+    font-size: 1.2rem;
+}
